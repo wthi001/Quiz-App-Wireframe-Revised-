@@ -1,0 +1,80 @@
+.logo h2{
+    text-align:left;
+    border:1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+    width:55px;
+    
+  }
+  
+  .counter ul li  {
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+    list-style:none;
+    display: inline;
+    
+  }
+  
+  .startQuiz {
+    text-align:center;
+    
+  }
+  
+  .startQuiz h1 {
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  
+  }
+  
+  .startQuiz button {  
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  
+  }
+  
+  .questionAnswerForm h2 {
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  
+  } 
+  
+  .questionAnswerForm ul li {
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  
+  }
+  
+  
+  .submit {  
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  
+  }
+  
+  .feedback h3 {
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  }
+  
+  .next {
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  
+  }
+  
+  .testResults h2 {
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  
+  }
+  
+  .testResults h3 {
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  
+  }
+  
+  .restart {
+    border: 1px solid black;
+    background: rgba(128, 128, 128, 0.322);
+  
+  }
